@@ -19,7 +19,7 @@
        <img slot="item-icon" src="~assets/img/tabbar/profile.svg" alt="">
        <img slot="item-icon-active" src="~assets/img/tabbar/profile_active.svg" alt="">
       <div slot="item-text">我的</div>
-      <div slot="item-text">我的本地测试测试</div>
+      <div slot="item-text">我的本地master测试测试</div>
     </TabBarItem>
   </TabBar>
 </template>
